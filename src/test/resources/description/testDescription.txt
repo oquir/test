@@ -1,0 +1,3 @@
+verificar si lahora que nos ingresaron esta dentro del rango
+y posteriormente damos el tiempo del dia en el que estamos
+por ejemplo: Night, Morning, Afternoon, Evening.
