@@ -1,0 +1,16 @@
+INTEGRANTES:
+Tomas Eduardo Aguilar Mariaca
+Mateo Aristizabal Campuzano
+
+Sabados de 10am a 2pm
+
+Videos de tomas:
+https://youtu.be/6G4ScqMJLb0  -------> Primer Test
+https://youtu.be/3G9YXcWDdxs  -------> Segundo Test
+
+En el primer test ingresamos el Email en el input y realizamos click en el boton Recuperar Contraseña,
+para la automatizada realizamos el mismo proceso solo que utilizamos el codigo para realizar los pasos.
+
+En este Segundo Test revisaremos el primer link dándole click lo cual no llevara a otra pagina donde habrá un botón Start al 
+cual daremos click y esperaremos a que cargue una vez finalizado nos mostrara Hello World!, 
+Para la prueba automatiza realizaremos los mismos pasos solo que estos serán realizados por selenium.
